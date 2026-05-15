@@ -1,0 +1,356 @@
+[
+  {
+    "english": "Algorithm",
+    "kannada": "ಕ್ರಮಾವಳಿ",
+    "explanation": "A step-by-step procedure for solving a problem or accomplishing a task.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Variable",
+    "kannada": "ಚರಾಂಶ",
+    "explanation": "A value that can change depending on conditions or information passed to the program.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Photosynthesis",
+    "kannada": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+    "explanation": "The process by which green plants and some other organisms use sunlight to synthesize foods.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Gravity",
+    "kannada": "ಗುರುತ್ವಾಕರ್ಷಣೆ",
+    "explanation": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Evaporation",
+    "kannada": "ಬಾಷ್ಪೀಕರಣ",
+    "explanation": "The process of a substance in a liquid state changing to a gaseous state.",
+    "subject": "Chemistry"
+  },
+  {
+    "english": "Asset",
+    "kannada": "ಆಸ್ತಿ",
+    "explanation": "A resource with economic value that an individual, corporation, or country owns or controls.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Liability",
+    "kannada": "ಹೊಣೆಗಾರಿಕೆ",
+    "explanation": "Something a person or company owes, usually a sum of money.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Function",
+    "kannada": "ಕ್ರಿಯೆ",
+    "explanation": "In mathematics, it relates an input to an output.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Database",
+    "kannada": "ದತ್ತಸಂಚಯ",
+    "explanation": "An organized collection of structured information, or data.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Hardware",
+    "kannada": "ಯಂತ್ರಾಂಶ",
+    "explanation": "The physical parts of a computer system.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Software",
+    "kannada": "ತಂತ್ರಾಂಶ",
+    "explanation": "A set of instructions, data or programs used to operate computers.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Molecule",
+    "kannada": "ಅಣು",
+    "explanation": "The smallest unit of a chemical compound that can take part in a chemical reaction.",
+    "subject": "Chemistry"
+  },
+  {
+    "english": "Nucleus",
+    "kannada": "ನೆಲೆ",
+    "explanation": "The central and most important part of an object, movement, or group.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Ecosystem",
+    "kannada": "ಜೀವಪರಿಸರ ವ್ಯವಸ್ಥೆ",
+    "explanation": "A biological community of interacting organisms and their physical environment.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Profit",
+    "kannada": "ಲಾಭ",
+    "explanation": "The financial gain, especially the difference between the amount earned and the amount spent.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Account",
+    "kannada": "ಖಾತೆ",
+    "explanation": "A record or statement of financial receipts and expenditures.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Atmosphere",
+    "kannada": "ವಾತಾವರಣ",
+    "explanation": "The envelope of gases surrounding the earth or another planet.",
+    "subject": "Science"
+  },
+  {
+    "english": "Bacteria",
+    "kannada": "ಬ್ಯಾಕ್ಟೀರಿಯಾ",
+    "explanation": "Unicellular microorganisms which have cell walls but lack organelles.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Balance Sheet",
+    "kannada": "ಆಯವ್ಯಯ ಪಟ್ಟಿ",
+    "explanation": "A statement of the assets, liabilities, and capital of a business.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Calculus",
+    "kannada": "ಕಲನಶಾಸ್ತ್ರ",
+    "explanation": "The branch of mathematics that deals with the finding and properties of derivatives and integrals.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Capacitor",
+    "kannada": "ಸಂಗ್ರಾಹಕ",
+    "explanation": "A device used to store an electric charge, consisting of one or more pairs of conductors separated by an insulator.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Cell",
+    "kannada": "ಜೀವಕೋಶ",
+    "explanation": "The smallest structural and functional unit of an organism.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Circuit",
+    "kannada": "ಮಂಡಲ",
+    "explanation": "A complete and closed path through which an electric current can flow.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Compiler",
+    "kannada": "ಸಂಕಲಕ",
+    "explanation": "A program that converts instructions into a machine-code or lower-level form.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Decimal",
+    "kannada": "ದಶಮಾಂಶ",
+    "explanation": "Relating to or denoting a system of numbers and arithmetic based on the number ten.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Density",
+    "kannada": "ಸಾಂದ್ರತೆ",
+    "explanation": "The degree of compactness of a substance.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Digit",
+    "kannada": "ಅಂಕಿ",
+    "explanation": "Any of the numerals from 0 to 9.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Dividend",
+    "kannada": "ಲಾಭಾಂಶ",
+    "explanation": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "DNA",
+    "kannada": "ಡಿಎನ್ಎ",
+    "explanation": "The molecule that carries genetic information for the development and functioning of an organism.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Energy",
+    "kannada": "ಶಕ್ತಿ",
+    "explanation": "The strength and vitality required for sustained physical or mental activity.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Equation",
+    "kannada": "ಸಮೀಕರಣ",
+    "explanation": "A mathematical statement that two expressions are equal.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Evolution",
+    "kannada": "ವಿಕಾಸ",
+    "explanation": "The process by which different kinds of living organisms are thought to have developed from earlier forms.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Exponential",
+    "kannada": "ಘಾತೀಯ",
+    "explanation": "Increasing or decreasing more and more rapidly.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Force",
+    "kannada": "ಬಲ",
+    "explanation": "Strength or energy as an attribute of physical action or movement.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Friction",
+    "kannada": "ಘರ್ಷಣೆ",
+    "explanation": "The resistance that one surface or object encounters when moving over another.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Galaxy",
+    "kannada": "ಗೆಲಾಕ್ಸಿ",
+    "explanation": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+    "subject": "Science"
+  },
+  {
+    "english": "Geometry",
+    "kannada": "ಜ್ಯಾಮಿತಿ",
+    "explanation": "The branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Glucose",
+    "kannada": "ಗ್ಲುಕೋಸ್",
+    "explanation": "A simple sugar which is an important energy source in living organisms.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Habitat",
+    "kannada": "ವಾಸಸ್ಥಾನ",
+    "explanation": "The natural home or environment of an animal, plant, or other organism.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Hormone",
+    "kannada": "ಹಾರ್ಮೋನ್",
+    "explanation": "A regulatory substance produced in an organism and transported in tissue fluids.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Idea",
+    "kannada": "ಕಲ್ಪನೆ",
+    "explanation": "A thought or suggestion as to a possible course of action.",
+    "subject": "General"
+  },
+  {
+    "english": "Inertia",
+    "kannada": "ಜಡತ್ವ",
+    "explanation": "A tendency to do nothing or to remain unchanged.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Interest",
+    "kannada": "ಬಡ್ಡಿ",
+    "explanation": "Money paid regularly at a particular rate for the use of money lent.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Inventory",
+    "kannada": "ದಾಸ್ತಾನು",
+    "explanation": "A complete list of items such as property, goods in stock, or the contents of a building.",
+    "subject": "Commerce"
+  },
+  {
+    "english": "Isotope",
+    "kannada": "ಸಮಸ್ಥಾನಿ",
+    "explanation": "Each of two or more forms of the same element that contain equal numbers of protons.",
+    "subject": "Chemistry"
+  },
+  {
+    "english": "Keyword",
+    "kannada": "ಪ್ರಮುಖ ಪದ",
+    "explanation": "A word or concept of great significance.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Laser",
+    "kannada": "ಲೇಸರ್",
+    "explanation": "A device that generates an intense beam of coherent monochromatic light.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Logarithm",
+    "kannada": "ಲಘುಗಣಿತ",
+    "explanation": "A quantity representing the power to which a fixed number (the base) must be raised to produce a given number.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Magnetism",
+    "kannada": "ಕಾಂತೀಯತೆ",
+    "explanation": "A physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Matrix",
+    "kannada": "ಮಾತೃಕೆ",
+    "explanation": "A rectangular array of quantities or expressions in rows and columns that is treated as a single entity.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Network",
+    "kannada": "ಜಾಲ",
+    "explanation": "A group or system of interconnected people or things.",
+    "subject": "Computer Science"
+  },
+  {
+    "english": "Normal",
+    "kannada": "ಸಾಮಾನ್ಯ",
+    "explanation": "Conforming to a standard; usual, typical, or expected.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Orbit",
+    "kannada": "ಕಕ್ಷೆ",
+    "explanation": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+    "subject": "Science"
+  },
+  {
+    "english": "Osmosis",
+    "kannada": "ಅಭಿಸರಣೆ",
+    "explanation": "A process by which molecules of a solvent tend to pass through a semipermeable membrane.",
+    "subject": "Biology"
+  },
+  {
+    "english": "Oxygen",
+    "kannada": "ಆಮ್ಲಜನಕ",
+    "explanation": "A colorless, odorless reactive gas, the life-supporting component of the air.",
+    "subject": "Chemistry"
+  },
+  {
+    "english": "Parallel",
+    "kannada": "ಸಮಾನಾಂತರ",
+    "explanation": "Side by side and having the same distance continuously between them.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Pressure",
+    "kannada": "ಒತ್ತಡ",
+    "explanation": "The continuous physical force exerted on or against an object by something in contact with it.",
+    "subject": "Physics"
+  },
+  {
+    "english": "Ratio",
+    "kannada": "ಅನುಪಾತ",
+    "explanation": "The quantitative relation between two amounts showing the number of times one value contains or is contained within the other.",
+    "subject": "Mathematics"
+  },
+  {
+    "english": "Stock",
+    "kannada": "ಷೇರು",
+    "explanation": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution.",
+    "subject": "Commerce"
+  }
+]

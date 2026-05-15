@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nalla-Nudi</string>
+    <string name="search_hint">Search technical words...</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="my_list">My Favorites</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="empty_list">No words found.</string>
+    <string name="subject_label">Subject: </string>
+    <string name="meaning_label">Kannada Meaning:</string>
+    <string name="explanation_label">Explanation:</string>
+    <string name="subject_format">Subject: %1$s</string>
+    <string name="quiz_label">Quiz</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="tap_to_flip">Tap to flip</string>
+    <string name="learning_mode">Learning Mode</string>
+    <string name="welcome_back">Namaste, Learner!</string>
+    <string name="ready_to_learn">Ready to master Kannada today?</string>
+</resources>
